@@ -1,6 +1,6 @@
 # 👨‍💻 Carlos Eduardo
 
-**`DesenvolvedorFullStack`**
+**`Desenvolvedor FullStack`**
 
 Sou estudante do ensino médio com formação técnica em Informática pelo Colégio Univap – Unidade Centro. Tenho experiência prática em programação e desenvolvimento de sistemas, com domínio de Python, JavaScript, C# e Unity 2D, além de conhecimentos em bancos de dados MySQL e MongoDB. Também possuo habilidades em HTML, CSS e controle de versão com Git. Busco constantemente aprimorar minhas competências na área de tecnologia e contribuir em projetos que envolvam desenvolvimento de software e jogos.
 
@@ -100,7 +100,7 @@ Sou estudante do ensino médio com formação técnica em Informática pelo Col�
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoFSousa&layout=donut&theme=dark" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoFSousa&layout=donut&theme=dark&locale=pt-br" 
   />
 
 </p>
