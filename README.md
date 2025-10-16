@@ -100,7 +100,7 @@ Sou estudante do ensino médio com formação técnica em Informática pelo Col�
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoFSousa&layout=donut&theme" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoFSousa&layout=donut&theme=dark" 
   />
 
 </p>
