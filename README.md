@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou estudante do ensino médio com formação técnica em Informática pelo Colégio Univap – Unidade Centro. Tenho experiência prática em programação e desenvolvimento de sistemas, com domínio de Python, JavaScript, C# e Unity 2D, além de conhecimentos em bancos de dados MySQL e MongoDB. Também possuo habilidades em HTML, CSS e controle de versão com Git. Busco constantemente aprimorar minhas competências na área de tecnologia e contribuir em projetos que envolvam desenvolvimento de software e jogos.
+Sou estudante do ensino médio com formação técnica em Informática pelo Colégio Univap – Unidade Centro. Tenho experiência prática em programação e desenvolvimento de sistemas, com domínio de Python, JavaScript, C#, Unity 2D, Java e Kotlin, além de conhecimentos em bancos de dados MySQL e MongoDB. Também possuo habilidades em HTML e CSS. Busco constantemente aprimorar minhas competências na área de tecnologia e contribuir em projetos que envolvam desenvolvimento de software e jogos.
 
 
 ---
