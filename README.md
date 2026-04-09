@@ -1,31 +1,55 @@
 # 👨‍💻 Carlos Eduardo
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack | Unity Developer | Estudante de TI`**
 
-Sou estudante do ensino médio com formação técnica em Informática pelo Colégio Univap – Unidade Centro. Tenho experiência prática em programação e desenvolvimento de sistemas, com domínio de Python, JavaScript, C#, Unity 2D, Java e Kotlin, além de conhecimentos em bancos de dados MySQL e MongoDB. Também possuo habilidades em HTML e CSS. Busco constantemente aprimorar minhas competências na área de tecnologia e contribuir em projetos que envolvam desenvolvimento de software e jogos.
+Olá! Sou estudante do ensino médio com formação técnica em Informática pelo **Colégio Univap (Unidade Centro)**. Sou apaixonado por resolver problemas através do código, seja criando sistemas funcionais ou desenvolvendo experiências imersivas em jogos 2D.
+
+Atualmente, dedico meu tempo para aprimorar o raciocínio lógico, dominar a estruturação de dados e criar projetos que unem matemática e tecnologia.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 No que eu trabalho?
 
-<div style="display: inline_block">
-  <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="left" alt="Unity 2D" title="Unity 2D" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-  <img align="left" alt="Mysql" title="Mysql" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="left" alt="Mongo DB" title="Mongo DB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+* **Desenvolvimento de Sistemas:** Criação de aplicações desktop e lógica de sistemas com C#, Java e Python.
+* **Desenvolvimento Frontend:** Construção de interfaces modernas com HTML, CSS e JavaScript.
+* **Game Dev:** Desenvolvimento de jogos e simulações interativas utilizando Unity e C#.
+* **Bancos de Dados:** Organização e gerenciamento de informações com **MySQL** e **MongoDB**.
+
+---
+
+### 🤖 Ferramentas e Tecnologias
+
+<div style="display: inline-block">
+  <img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right: 10px;" />
+  <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right: 10px;" />
+  <img align="left" alt="JS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right: 10px;" />
+  
+  <img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right: 10px;" />
+  <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right: 10px;" />
+  <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right: 10px;" />
+  <img align="left" alt="Kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" style="padding-right: 10px;" />
+  
+  <img align="left" alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" style="padding-right: 10px;" />
+  <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="padding-right: 10px;" />
+  <img align="left" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right: 10px;" />
 </div>
-<br/>
-<br/>
 
-### 📊 Estatísticas
+<br/><br/><br/>
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="200" src="https://github-readme-stats-one.vercel.app/api?username=CarlosEduardoFSousa&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
-
-  <img height="200" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=CarlosEduardoFSousa&layout=donut&theme=dark&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats-one.vercel.app/api?username=CarlosEduardoFSousa&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=CarlosEduardoFSousa&layout=donut&theme=dark&locale=pt-br" />
 </p>
+
+---
+
+### 📫 Vamos conversar?
+
+Seja para trocar ideias sobre projetos ou oportunidades, sinta-se à vontade para me encontrar em:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-ferreira-sousa/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloseduardosousa395@gmail.com)
