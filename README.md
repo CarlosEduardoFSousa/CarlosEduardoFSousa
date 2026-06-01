@@ -8,10 +8,19 @@ Atualmente, dedico meu tempo para aprimorar o raciocínio lógico, dominar a est
 
 ---
 
+### 📌 Projeto em Destaque (TCC)
+
+Estou desenvolvendo como Trabalho de Conclusão de Curso um **Aplicativo Mobile de Quizzes e Desempenho Escolar**, focado em gamificação e análise de dados de aprendizado para estudantes.
+* **Mobile:** Interface nativa e dinâmica desenvolvida em **Kotlin** (Android Studio), incluindo o desenvolvimento de componentes personalizados para a renderização de gráficos de performance e telas de ranking geral.
+* **Backend & API:** Serviços estruturados em **PHP** para comunicação assíncrona com o aplicativo via requisições HTTP, processando as regras de negócio em segundo plano.
+* **Banco de Dados:** Modelagem relacional e persistência de dados de usuários, históricos de pontuação e banco de questões utilizando **MySQL**.
+
+---
+
 ### 🚀 No que eu trabalho?
 
 * **Desenvolvimento de Sistemas:** Criação de aplicações desktop e lógica de sistemas com C#, Java e Python.
-* **Desenvolvimento Frontend:** Construção de interfaces modernas com HTML, CSS e JavaScript.
+* **Desenvolvimento Frontend & Mobile:** Construção de interfaces modernas com HTML/CSS/JS e desenvolvimento mobile nativo com Kotlin.
 * **Game Dev:** Desenvolvimento de jogos e simulações interativas utilizando Unity e C#.
 * **Bancos de Dados:** Organização e gerenciamento de informações com **MySQL** e **MongoDB**.
 
